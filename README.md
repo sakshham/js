@@ -1,2 +1,2 @@
 # js
-Leraning Js
+Learning Js
